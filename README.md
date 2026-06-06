@@ -57,7 +57,6 @@ Machine Learning-Based Assessment of Land Use and Land Cover Change Using Remote
 # Author
 
 Huy
-Bachelor of Land Management
 
 # Acknowledgements
 
