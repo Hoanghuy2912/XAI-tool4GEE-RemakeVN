@@ -58,6 +58,8 @@ Machine Learning-Based Assessment of Land Use and Land Cover Change Using Remote
 
 Huy
 
+Land Management Engineer
+
 # Acknowledgements
 
 Modified and extended from the original GeoAIR Lab project (MIT License).
