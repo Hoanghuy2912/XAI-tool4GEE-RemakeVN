@@ -10,7 +10,7 @@ Built on top of Google Earth Engine, the system supports image preprocessing, fe
 
 # User interface
 
-<img width="1842" height="891" alt="Screenshot 2026-06-07 041315" src="https://github.com/user-attachments/assets/3df7614f-266b-4c0b-b41a-5a5411a36851" />
+<img width="1843" height="889" alt="image" src="https://github.com/user-attachments/assets/758fab84-1b1d-4e21-a15b-7710e3db21eb" />
 
 
 # Key Features
